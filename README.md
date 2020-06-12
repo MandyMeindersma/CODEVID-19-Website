@@ -1,5 +1,8 @@
 # codevid19.com
 
+## Introduction
+This website was made to show information to the participants and sponsors of the CODEVID-19 Hackathon - the worlds first global pandemic hackathon. This hackathon was started to help people cope through the COVID-19 pandemic. We had over 1800 participants who worked on over 60 projects. We had over 50 judges who decided where our USD$6000+ prize money went to. We had 16 organizers pulling this all off. 
+
 ## Installation
 
 We use Jeykll with Github Pages plugins so that content can be quickly published and served as a Github Page. To build locally, you'll need to install Ruby 2.1+.
